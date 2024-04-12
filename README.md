@@ -9,4 +9,4 @@ How to reach me: https://sutcliffe.com.br
 
 Pronouns: She / her
 
-Fun fact: I like 100% dark chocolate. The other kinds just don't seem very chocolatly to me.
+Fun fact: I like 100% dark chocolate. The other kinds just don't seem very chocolaty to me.
