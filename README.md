@@ -1,9 +1,9 @@
 
-Hey! This is the repository of Naomi J. S. de Moraes, PhD
+Hello! This is the repository of Naomi J. S. de Moraes, PhD
 
 I'm currently working on NLP, LLMs, prompt engineering and machine learning in general.
 
-I'm currently learning Mandarin (with traditional characters).
+I'm also learning Mandarin (with traditional characters) - my hobby, I guess.
 
 How to reach me: https://sutcliffe.com.br
 
